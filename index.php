@@ -1,0 +1,1 @@
+<?php header("Location: layouts/frontend/product/index.php")?>
